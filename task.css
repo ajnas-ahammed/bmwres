@@ -1,0 +1,25 @@
+.username{
+    font-size: 15px;
+    color: black;
+}
+
+.password{
+    font-size: 15px;
+    color: black;
+
+}
+
+.inp1{
+    background-color: grey;
+    margin-left: 5px;
+}
+.inp2{
+    background-color: grey;
+    margin-left: 5px;
+}
+
+
+.bt1{
+    background-color: blue;
+    margin-left: 10px;
+}

@@ -1,0 +1,976 @@
+
+
+
+
+
+
+        .blackstyle{
+            font-size: 5rem; color: aliceblue; font-weight: bold;
+            position: absolute; left: 0; top: 0; width: 10%; height: 368px;
+            padding: 3em;
+            background-image: linear-gradient(to right, 
+            rgba(0,0,0,1) 20%,
+            rgba(0,0,0,.7) 40%,
+            rgba(0,0,0,.4) 70%,
+            rgba(0,0,0,0) 100%);
+        }
+        .container{
+            display: flex;
+        }
+        body{
+            border: 0;
+        }
+        .div2{
+            width: 1496px;
+            height: 500px;
+        }
+        .video{
+            width: 101%;
+            height: auto;
+            margin-top: -10px;
+        }
+        .logo{
+            width: 53px;
+    height: 53px;
+    margin-top: -225px;
+    margin-left: -145px;
+    margin-bottom: 178px;
+        }
+
+        .five{
+            font-family: 'Courier New', Courier, monospace;
+            font-size: x-large;
+            
+            
+        }
+        .fiveimg{
+            width: 326px;
+    height: 216px;
+    margin-left: -125px;
+    margin-bottom: -297px;
+            
+        }
+        .the{
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21%;
+    text-indent: -87%;
+    letter-spacing: .2rem;
+    font-weight: 100;
+    margin-top: 64px;
+    font-stretch: expanded;
+        }
+
+        .wheel{
+            font-family: Sans-serif;
+    font-size: 31%;
+    text-indent: -85%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 205px;
+    font-size: 31%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+            
+            
+        }
+        .discover{
+            margin-left: -133px;
+    margin-top: 26px;
+    width: 197px;
+    height: 53px;
+    border: 0cap;
+    background-color: rgb(28 105 212);
+    color: white;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: Sans-serif;
+        }
+        .line{
+            font-size: 23%;
+    margin-top: -577px;
+    margin-left: -143px;
+        }
+        
+        
+        
+        .cart{
+        
+            width: 25px;
+    height: 25px;
+    margin-top: -204px;
+    margin-left: 1035px;
+    margin-bottom: 178px;
+        }
+
+        .location{
+            width: 24px;
+    height: 22px;
+    margin-top: -202px;
+    margin-left: 1079px;
+    margin-bottom: 178px;
+
+        }
+
+        .lense{
+            width: 24px;
+    height: 23px;
+    margin-top: -202px;
+    margin-left: 1117px;
+    margin-bottom: 178px;
+
+        }
+
+        .sheer{
+            font-family: Sans-serif;
+    font-size: x-small;
+    text-indent: -110%;
+    font-weight: 100;
+    margin-top: 0px;
+    font-size: 20%;
+    margin-right: 14%;
+        }
+        .pleasure{
+            font-family: Sans-serif;
+    font-size: x-small;
+    text-indent: -155%;
+    font-weight: bold;
+    margin-top: -33px;
+    font-size: 20%;
+    margin-right: 82%
+
+        }
+        .models{
+            font-family: Sans-serif;
+    font-size: x-small;
+    text-indent: -103%;
+    font-weight: bold;
+    margin-top: -106px;
+    font-size: 19%;
+    margin-right: 64%;
+    
+
+        }
+
+        .electric{
+            width: 30px;
+    height: 27px;
+    margin-top: -35px;
+    margin-left: 52px;
+    margin-bottom: 178px;
+    font-family: Sans-serif;
+    font-size: 19%;
+    text-indent: -103%;
+    font-weight: bold;
+    font-size: 21%;
+    
+        }
+        .config{
+            width: 30px;
+    height: 27px;
+    margin-top: -203px;
+    margin-left: 143px;
+    margin-bottom: 178px;
+    font-family: Sans-serif;
+    font-size: 18%;
+    text-indent: -103%;
+    font-weight: bold;
+    font-size: 21%;
+    
+        }
+        .shop{
+            width: 80px;
+    height: 27px;
+    margin-top: -203px;
+    margin-left: 321px;
+    margin-bottom: 178px;
+    font-family: Sans-serif;
+    font-size: 19%;
+    text-indent: -103%;
+    font-weight: bold;
+    font-size: 21%;
+        }
+        .morebmw{
+            width: 80px;
+    height: 27px;
+    margin-top: -203px;
+    margin-left: 485px;
+    margin-bottom: 178px;
+    font-family: Sans-serif;
+    font-size: 19%;
+    text-indent: -103%;
+    font-weight: bold;
+    font-size: 21%;
+    
+        }
+        
+        .userlogoo{
+            width: 25px;
+    height: 23px;
+    margin-top: -215px;
+    margin-left: 999px;
+    margin-bottom: 178px;
+}
+    
+        
+
+        .cartt{
+            width: 20px;
+    height: 22px;
+    margin-top: -214px;
+    margin-left: 1048px;
+    margin-bottom: 178px;
+    
+        }
+
+        .locat{
+            width: 23px;
+    height: 20px;
+    margin-top: -213px;
+    margin-left: 1099px;
+    margin-bottom: 178px;
+    
+        }
+
+
+        .len{
+            width: 21px;
+    height: 23px;
+    margin-top: -214px;
+    margin-left: 1145px;
+    margin-bottom: 178px;
+    
+        }
+
+        .phone{
+        position: fixed ;
+            width: 50;
+    height: 50;
+    margin-top: 240px;
+    margin-left: 1173px;
+    margin-bottom: 178px;
+        }
+    
+    .div3{
+        height: 379px;
+    width: 1518px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 387px;
+    margin-left: -7px;
+    }
+
+    .div4{
+        height: 515px;
+    width: 1525px;
+    background-color: rgb(254, 7, 175);
+    margin-top: 47px;
+    margin-left: -7px;
+    }
+    .stopper{
+        width: 0%px;
+        height: 0px;
+        
+        margin-left: -239px;
+        margin-top: 100px;
+    }
+        
+    .findyour{
+        color: rgb(27, 27, 27);
+    font-family: Sans-serif;
+    font-size: 200%;
+    margin-top: 60px;
+    margin-left: 637px;
+    margin-bottom: 0%;
+    }
+    .outlinecar{
+        width: 1518px;
+        height: 112px;
+    }
+    .bookyour{
+        color: rgb(27, 27, 27);
+    font-family: Sans-serif;
+    font-size: 150%;
+    margin-top: -56px;
+    margin-left: 674px;
+}
+
+
+    
+    .findnewcar{
+        color: rgb(27, 27, 27);
+    font-family: Sans-serif;
+    font-size: 150%;
+    margin-top: 24px;
+    margin-left: 232px;
+
+    }
+    .buildyou{
+        color: rgb(27, 27, 27);
+    font-family: Sans-serif;
+    font-size: 150%;
+    margin-top: -52px;
+    margin-left: 1119px;
+    margin-bottom: 0%;
+    }
+
+    .searchnow{
+        background-color: white;
+    margin-left: 241px;
+    margin-top: 26px;
+    width: 135px;
+    height: 53px;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+}
+
+.requestatest{
+    background-color: white;
+    margin-left: 297px;
+    margin-top: 26px;
+    width: 189px;
+    height: 53px;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+}
+.congigureandprice{
+    
+    background-color: white;
+    margin-left: 267px;
+    margin-top: 26px;
+    width: 172px;
+    height: 53px;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+}
+.blackstyle2{
+    font-size: 5rem;
+    color: aliceblue;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 10%;
+    height: 35px;
+    margin-top: 1230px;
+    padding: 3em;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, .7) 40%,
+     rgba(0, 0, 0, .4) 70%, rgba(0, 0, 0, 0) 100%);
+        }
+        .ixx{
+            width: 1525px;
+    height: 515px;
+    margin-left: 0px;
+    margin-top: 0px;
+        }
+        .div5{
+            height: 515px;
+    width: 1525px;
+    background-color: rgb(254, 7, 175);
+    margin-top: 47px;
+    margin-left: -7px;
+
+        }
+        .blackstyle3{
+            font-size: 3rem;
+    color: aliceblue;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1229px;
+    height: 0px;
+    margin-top: 2005px;
+    padding: 3em;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, .7) 40%, rgba(0, 0, 0, .4) 70%, rgba(0, 0, 0, 0) 100%);
+        }
+        .discover2{
+            margin-left: -133px;
+    margin-top: 46px;
+    width: 308px;
+    height: 53px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+    
+
+        }
+        .ixxDrive{
+            font-family: Sans-serif;
+    font-size: 31%;
+    text-indent: -85%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: -44px;
+    font-size: 32px;
+    margin-right: 0%;
+    margin-bottom: 0%;
+
+        }
+        .stayahead{
+            font-family: Sans-serif;
+    font-size: 31%;
+    text-indent: -85%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 19px;
+    font-size: 21%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+
+        }
+        .theseven{
+            width: 250px;
+            height: 200px;
+        }
+        .div42{
+            height: 500px;
+    width: 1525px;
+    background-color: rgb(254, 7, 175);
+    margin-top: 47px;
+    margin-left: -7px;
+
+        }
+        .the7{
+            width: 1525px;
+    height: 499px;
+}
+        
+        .div6{
+            width: 1518px;
+    height: 504px;
+    background-color: aqua;
+    margin-top: 35px;
+    margin-bottom: 0%;
+        }
+        .div7{
+            background-color: rgb(255, 255, 255);
+            height: 579px;
+            margin-left: -1px;
+        }
+        .forwardism{
+            font-family: Sans-serif;
+    font-size: 31%;
+    font-weight: 90;
+    font-size: 35px;
+    margin-top: -18px;
+    margin-left: -36px;
+
+        }
+        .knowmore1{
+            margin-left: -36px;
+    margin-top: 2px;
+    width: 308px;
+    height: 53px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    font-family: Sans-serif;
+        }
+    .electricc{
+        width: 1519px;
+    height: 504px;
+    margin-left: -1px;
+    }
+
+    .blackstyle4{
+        font-size: 3rem;
+    color: aliceblue;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1229px;
+    height: 0px;
+    margin-top: 2544px;
+    padding: 3em;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, .7) 40%, rgba(0, 0, 0, .4) 70%, rgba(0, 0, 0, 0) 100%);
+    }
+    .knowmore2{
+        margin-left: -36px;
+    margin-top: 35px;
+    width: 308px;
+    height: 53px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    font-family: Sans-serif;
+        }
+
+        .electricdrivingg{
+            font-family: Sans-serif;
+    font-size: 31%;
+    font-weight: 90;
+    font-size: 35px;
+    margin-top: -96px;
+    margin-left: -36px;
+    margin-bottom: 0%;
+
+        }
+        .bmwexp{
+            font-family: Sans-serif;
+    font-size: 31%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 26px;
+    margin-left: -39px;
+    font-size: 19px;
+    margin-bottom: 0px;
+    
+
+        }
+        .bmwexp2{
+            font-family: Sans-serif;
+    font-size: 31%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 5px;
+    margin-left: -39px;
+    font-size: 19px;
+    margin-bottom: 0px;
+
+        }
+        .div8{
+            height: 79px;
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+        }
+        .lastpic{
+            width: 760px;
+    height: 432px;
+    margin-top: 44px;
+    margin-left: 100px;
+        }
+        .specialoffers{
+            color: rgb(27, 27, 27);
+    font-family: Sans-serif;
+    font-size: 200%;
+    margin-top: -309px;
+    margin-left: 923px;
+    margin-bottom: 0%;
+
+        }
+        .emi{
+            font-family: Sans-serif;
+    font-size: 31%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 23px;
+    margin-left: 926px;
+    font-size: 19px;
+    margin-bottom: 0px;
+    color: rgb(27, 27, 27);
+
+        }
+        .similarr{
+            font-family: Sans-serif;
+    font-size: 31%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 3px;
+    margin-left: 926px;
+    font-size: 19px;
+    margin-bottom: 0px;
+    color: rgb(27, 27, 27);
+
+        }
+        .availablee{
+            font-family: Sans-serif;
+    font-size: 31%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 3px;
+    margin-left: 926px;
+    font-size: 19px;
+    margin-bottom: 0px;
+    color: rgb(27, 27, 27);
+        }
+        .knowmore3{
+            margin-left: 820px;
+    margin-top: 13px;
+    width: 308px;
+    height: 53px;
+    border-color: transparent;
+    background-color: transparent;
+    color: black;
+    font-size: 17px;
+    font-family: Sans-serif;
+    ;
+        }
+        .knowmore3:hover{
+            color: rgb(74, 74, 255);
+        }
+
+        .line2{
+            font-size: 23%;
+    margin-top: 194px;
+    margin-left: 0px;
+    color: rgb(230 230 230);
+        }
+        .findyour2{
+            font-family: Sans-serif;
+    font-size: 31%;
+    letter-spacing: 0px;
+    font-weight: 100;
+    margin-top: 23px;
+    margin-left: 98px;
+    font-size: 13px;
+    margin-bottom: 0px;
+    color: rgb(27, 27, 27);
+        }
+        .allmodels{
+            margin-left: 120px;
+    margin-top: -32px;
+    width: 308px;
+    height: 53px;
+    border-color: transparent;
+    background-color: transparent;
+    color: black;
+    font-size: 17px;
+    font-family: Sans-serif;
+    ;
+        }
+        .allmodels:hover{
+            color: rgb(74, 74, 255);
+        }
+        .div9{
+            width: 100%;
+    height: 427px;
+    background-color: #f6f6f6;
+    margin-top: -22px;
+    margin-bottom: 0%;
+}
+.contactus{
+    margin-left: 96px;
+    margin-top: 9px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+}  
+.careers{
+    margin-left: 96px;
+    margin-top: 16px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+}
+.Request{
+    margin-left: 96px;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.FindaDealer{
+    margin-left: 96px;
+    margin-top: 17px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+}
+
+
+.Contact{
+    margin-left: 96px;
+    margin-top: 86px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 11px;
+    font-family: Sans-serif;
+}
+.quicklink{
+    margin-left: 432px;
+    margin-top: -174px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 11px;
+    font-family: Sans-serif;
+}
+    
+.BuildyourBMW{
+    margin-left: 432px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.BMWFinancialServices{
+    margin-left: 432px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.BMWSafety{
+    margin-left: 432px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.EMICalculator{
+    margin-left: 432px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+}
+.BMWPremiumSelection{
+    margin-left: 432px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.ExperienceBMW{
+    margin-left: 772px;
+    margin-top: -210px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 11px;
+    font-family: Sans-serif;
+
+}
+.BMWGroup{
+    margin-left: 772px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.BMWExcellenceClub{
+    margin-left: 772px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+
+}
+.BMWMotorrad{
+    margin-left: 772px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.ChargingNetwork{
+    margin-left: 772px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.Legal{
+    margin-left: 1109px;
+    margin-top: -175px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 11px;
+    font-family: Sans-serif;
+
+}
+.LegalDisclaimer{
+    margin-left: 1109px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.PrivacyPolicy{
+    margin-left: 1109px;
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.facebook{
+    margin-left: 106px;
+    margin-top: 174px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+    
+}
+.instagram{
+    margin-left: 15px;
+    margin-top: 174px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+}
+.youtube{
+    margin-left: 14px;
+    margin-top: 174px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+}
+.linkedin{
+    margin-left: 11px;
+    margin-top: 174px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+}
+.x{
+    margin-left: 7px;
+    margin-top: 174px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+}
+.imgfacebook{
+   
+    width: 15px;
+    height: 23px;
+}
+.imginstagram{
+   
+   width: 18px;
+   height: 22px;
+}
+.imgyoutube{
+   
+   width: 25px;
+   height: 23px;
+}
+.imglinkedin{
+   
+   width: 18px;
+   height: 22px;
+}
+.imgx{
+   
+   width: 15px;
+   height: 23px;
+}
+.div10{
+    height: 84px;
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 0%;
+}
+.BMWAGG{
+    margin-top: 50px;
+    margin-left: 96px;
+    margin-bottom: 0%;
+    font-size: 17px;
+    font-family: Sans-serif;
+
+}
+.LegalDisclaimer2{
+    margin-left: 1071px;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 13px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.LegalDisclaimer2:hover{
+    color: blue;
+}
+
+
+.PrivacyPolicy2{
+    margin-left: 1234px;
+    margin-top: -20px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 13px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.PrivacyPolicy2:hover{
+    color: blue;
+}
+
+.contactuss{
+    margin-left: 1350px;
+    margin-top: -21px;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-size: 13px;
+    font-family: Sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+.contactuss:hover{
+    color: blue;
+}
+
+/*----------------------res css part------------------*/
+
+
+.red{
+    color: red;
+    
+    margin-left: 50px;
+    margin-top: -200px;
+    font-size: 50px;
+}
+.redd p{
+    color: red;
+    padding: 20px;
+    margin-left: 20px;
+}
+
